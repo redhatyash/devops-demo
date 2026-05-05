@@ -1,6 +1,6 @@
 image:
   repository: devops-demo
-  tag: f207f4b1dbcb4a7a3eda822d4676102cb5c0d8bd
+  tag: 7399dc6d152211648474f35aa9d549583fd38dee
 
 service:
   type: ClusterIP
